@@ -584,14 +584,7 @@ p {
 }
 
 .compare-frame[data-tone="chestnut"] .compare-before img {
-  filter: brightness(0.62) sepia(0.35) saturate(1.2);
-  transform: scale(1.18);
-  object-position: 35% 15%;
-}
-
-.compare-frame[data-tone="chestnut"] .compare-after {
-  transform: scale(1.18);
-  object-position: 35% 15%;
+  filter: brightness(0.45) sepia(0.25) saturate(0.85) contrast(1.15);
 }
 
 .compare-frame[data-tone="yellow"] .compare-before img {
